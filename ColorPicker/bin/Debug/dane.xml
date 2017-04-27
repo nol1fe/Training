@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfFavouriteColor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FavouriteColor>
+    <favColorName>asd</favColorName>
+    <favHexText>#6BF5DB</favHexText>
+    <favCreatedData>27.04.2017 11:39:53</favCreatedData>
+  </FavouriteColor>
+  <FavouriteColor>
+    <favColorName>asdd</favColorName>
+    <favHexText>#6BF5DB</favHexText>
+    <favCreatedData>27.04.2017 11:39:53</favCreatedData>
+  </FavouriteColor>
+  <FavouriteColor>
+    <favColorName>Color name</favColorName>
+    <favHexText>#6BF5DB</favHexText>
+    <favCreatedData>27.04.2017 11:40:04</favCreatedData>
+  </FavouriteColor>
+</ArrayOfFavouriteColor>

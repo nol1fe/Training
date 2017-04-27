@@ -1,0 +1,2 @@
+# Training
+winForms + console apps

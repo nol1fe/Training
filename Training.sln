@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorPicker", "ColorPicker\ColorPicker.csproj", "{A193304D-99BA-4C23-80BF-28D2BAEC8411}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Steganograph", "Steganograph\Steganograph.csproj", "{615A7F61-1F04-426C-90C2-F2EFB59BFEBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A193304D-99BA-4C23-80BF-28D2BAEC8411}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A193304D-99BA-4C23-80BF-28D2BAEC8411}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A193304D-99BA-4C23-80BF-28D2BAEC8411}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A193304D-99BA-4C23-80BF-28D2BAEC8411}.Release|Any CPU.Build.0 = Release|Any CPU
+		{615A7F61-1F04-426C-90C2-F2EFB59BFEBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{615A7F61-1F04-426C-90C2-F2EFB59BFEBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{615A7F61-1F04-426C-90C2-F2EFB59BFEBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{615A7F61-1F04-426C-90C2-F2EFB59BFEBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

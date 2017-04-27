@@ -1,0 +1,29 @@
+c:\users\nol1fe\documents\visual studio 2015\Projects\ColorPicker\ColorPicker\bin\Debug\ColorPicker.exe.config
+c:\users\nol1fe\documents\visual studio 2015\Projects\ColorPicker\ColorPicker\bin\Debug\ColorPicker.exe
+c:\users\nol1fe\documents\visual studio 2015\Projects\ColorPicker\ColorPicker\bin\Debug\ColorPicker.pdb
+c:\users\nol1fe\documents\visual studio 2015\Projects\ColorPicker\ColorPicker\obj\Debug\ColorPicker.csprojResolveAssemblyReference.cache
+c:\users\nol1fe\documents\visual studio 2015\Projects\ColorPicker\ColorPicker\obj\Debug\ColorPicker.Form1.resources
+c:\users\nol1fe\documents\visual studio 2015\Projects\ColorPicker\ColorPicker\obj\Debug\ColorPicker.Properties.Resources.resources
+c:\users\nol1fe\documents\visual studio 2015\Projects\ColorPicker\ColorPicker\obj\Debug\ColorPicker.csproj.GenerateResource.Cache
+c:\users\nol1fe\documents\visual studio 2015\Projects\ColorPicker\ColorPicker\obj\Debug\ColorPicker.exe
+c:\users\nol1fe\documents\visual studio 2015\Projects\ColorPicker\ColorPicker\obj\Debug\ColorPicker.pdb
+D:\GitHub\training\Training\ColorPicker\bin\Debug\ColorPicker.exe.config
+D:\GitHub\training\Training\ColorPicker\bin\Debug\ColorPicker.exe
+D:\GitHub\training\Training\ColorPicker\bin\Debug\ColorPicker.pdb
+D:\GitHub\training\Training\ColorPicker\obj\Debug\ColorPicker.FavouriteColorControl.resources
+D:\GitHub\training\Training\ColorPicker\obj\Debug\ColorPicker.Form1.resources
+D:\GitHub\training\Training\ColorPicker\obj\Debug\ColorPicker.Properties.Resources.resources
+D:\GitHub\training\Training\ColorPicker\obj\Debug\ColorPicker.csproj.GenerateResource.Cache
+D:\GitHub\training\Training\ColorPicker\obj\Debug\ColorPicker.exe
+D:\GitHub\training\Training\ColorPicker\obj\Debug\ColorPicker.pdb
+D:\GitHub\training\Training\ColorPicker\obj\Debug\ColorPicker.csprojResolveAssemblyReference.cache
+D:\GitHub\Training\ColorPicker\bin\Debug\ColorPicker.exe.config
+D:\GitHub\Training\ColorPicker\bin\Debug\ColorPicker.exe
+D:\GitHub\Training\ColorPicker\bin\Debug\ColorPicker.pdb
+D:\GitHub\Training\ColorPicker\obj\Debug\ColorPicker.csprojResolveAssemblyReference.cache
+D:\GitHub\Training\ColorPicker\obj\Debug\ColorPicker.FavouriteColorControl.resources
+D:\GitHub\Training\ColorPicker\obj\Debug\ColorPicker.Form1.resources
+D:\GitHub\Training\ColorPicker\obj\Debug\ColorPicker.Properties.Resources.resources
+D:\GitHub\Training\ColorPicker\obj\Debug\ColorPicker.csproj.GenerateResource.Cache
+D:\GitHub\Training\ColorPicker\obj\Debug\ColorPicker.exe
+D:\GitHub\Training\ColorPicker\obj\Debug\ColorPicker.pdb

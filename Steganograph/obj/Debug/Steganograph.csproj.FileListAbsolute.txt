@@ -1,0 +1,9 @@
+D:\GitHub\Training\Steganograph\bin\Debug\Steganograph.exe.config
+D:\GitHub\Training\Steganograph\bin\Debug\Steganograph.exe
+D:\GitHub\Training\Steganograph\bin\Debug\Steganograph.pdb
+D:\GitHub\Training\Steganograph\obj\Debug\Steganograph.csprojResolveAssemblyReference.cache
+D:\GitHub\Training\Steganograph\obj\Debug\Steganograph.Form1.resources
+D:\GitHub\Training\Steganograph\obj\Debug\Steganograph.Properties.Resources.resources
+D:\GitHub\Training\Steganograph\obj\Debug\Steganograph.csproj.GenerateResource.Cache
+D:\GitHub\Training\Steganograph\obj\Debug\Steganograph.exe
+D:\GitHub\Training\Steganograph\obj\Debug\Steganograph.pdb
